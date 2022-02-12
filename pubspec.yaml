@@ -13,7 +13,7 @@ dependencies:
   connectivity: ^0.4.8
   xml2json: ^4.2.0
   shared_preferences: ^2.0.0
-  dio: ^3.0.10 # http工具
+  dio: ^4.0.4 # http工具
 dev_dependencies:
   flutter_test:
     sdk: flutter
